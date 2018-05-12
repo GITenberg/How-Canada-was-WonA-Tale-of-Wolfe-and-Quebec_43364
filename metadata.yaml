@@ -1,0 +1,38 @@
+_repo: How-Canada-was-WonA-Tale-of-Wolfe-and-Quebec_43364
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rainey, W. (William)
+    aliases:
+    - Rainey, W.
+    - Rainey, William
+    - Rainey, H. W. (H. William)
+    birthdate: 1852
+    deathdate: 1936
+    gutenberg_agent_id: '9704'
+    url: http://www.gutenberg.org/2009/agents/9704
+covers:
+- cover_type: archival
+  image_path: 43364-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brereton, F. S. (Frederick Sadleir)
+    alias: Brereton, Frederick Sadleir
+    birthdate: 1872
+    gutenberg_agent_id: '34828'
+    url: http://www.gutenberg.org/2009/agents/34828
+description: ''
+gutenberg_issued: '2013-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43364'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- French and Indian War, 1754-1763 -- Juvenile
+  fiction'
+- !lcc 'PZ'
+title: 'How Canada Was Won: A Tale of Wolfe and Quebec'
+url: http://www.gutenberg.org/ebooks/43364
