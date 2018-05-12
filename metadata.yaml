@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '34828'
     url: http://www.gutenberg.org/2009/agents/34828
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43364#How-Canada-was-WonA-Tale-of-Wolfe-and-Quebec
 gutenberg_issued: '2013-07-30'
 gutenberg_type: Text
 identifiers:
